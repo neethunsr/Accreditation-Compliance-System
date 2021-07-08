@@ -1,0 +1,51 @@
+﻿Accreditation Compliance System
+
+The java application requires an IDE for executing the file. I am using Apache NetBeans 11.3. NetBeans (@ http://netbeans.org) is an open-source Integrated Development Environment (IDE). 
+
+Requirements:
+1. Java OpenJDK
+2. NetBeans IDE
+3. PhpMyAdmin
+4. MySQL connector
+
+1. Installing Java OpenJDK
+
+We’ll install OpenJDK 8. The installation is pretty simple, start by updating the package index:
+
+$sudo apt update
+
+Install the OpenJDK 8 package by typing:
+
+$sudo apt install openjdk-8-jdk
+
+Verify the installation by typing the following command which will print the Java version:
+
+$java -version
+
+The output should look something like this:
+
+openjdk version "1.8.0_242"
+OpenJDK Runtime Environment (build 1.8.0_191-8u191-b12-2ubuntu0.18.04.1-b12)
+OpenJDK 64-Bit Server VM (build 25.191-b12, mixed mode)
+
+2. Installing Netbeans IDE
+ 
+To download and install the NetBeans snap package,
+
+$sudo snap install netbeans –classic
+
+On successful installation you’ll see the following output:
+
+netbeans 11.3 from ‘apache-netbeans’ installed
+
+3. Installing phpmyadmin
+
+$sudo apt-get install -y phpmyadmin 
+
+4. Installing MySQL Connector
+
+https://www.mysql.com/products/connector/
+
+Download JDBC Driver for MySQL
+
+---------------------------------------------------------------------------------------------------
