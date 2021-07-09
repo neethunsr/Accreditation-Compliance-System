@@ -1,5 +1,6 @@
                         ACCREDITATION COMPLIANCE SYSTEM
 
+Step 0: Clone the repository using 'git clone' or download the repo to your local system
 
 Step 1: Install dependencies
 
