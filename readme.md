@@ -4,7 +4,7 @@ Step 0: Clone the repository using 'git clone' or download the repo to your loca
 
 Step 1: Install dependencies
 
-Step 2: Open the folder javaapplication in NetBeans (JavaApplication/src/javaapplication)
+Step 2: Open the folder javaapplication in NetBeans (/src/javaapplication)
 
 Step 3: Open Loginform.java and run the file
 
